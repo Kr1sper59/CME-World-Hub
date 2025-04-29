@@ -12,7 +12,5 @@
 - **Взаимодействие с миром:** Ваши действия имеют последствия! Влияйте на экономику сервера, формируйте политические альянсы, участвуйте в конфликтах и меняйте судьбу мира.
 
 
-Важные ссылки:
-- [Dynmap](http://r1.veroid.network:10790)
-- [EmoteCraft](https://modrinth.com/plugin/emotecraft)
-- [PlasmoVoise](https://modrinth.com/plugin/plasmo-voice)
+# Содержание:
+1. [Гайд по моду PlasmoVoise](
