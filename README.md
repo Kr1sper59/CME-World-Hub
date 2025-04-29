@@ -13,4 +13,4 @@
 
 
 # Содержание:
-1. [Гайд по моду PlasmoVoise](PlasmoVoise Guide.md)
+1. [Гайд по моду PlasmoVoise](https://github.com/Kr1sper59/CME_World/blob/main/PlasmoVoise%20Guide.md#%D0%B3%D0%B0%D0%B9%D0%B4-%D0%BF%D0%BE-plasmovoise)
