@@ -13,5 +13,5 @@
 - [Гайд по Dynmap](https://github.com/Kr1sper59/CME_World/blob/main/Dynmap%20guide.md)
 
 - [Гайд по CoreProtect](https://github.com/Kr1sper59/CME_World_wiki/blob/c2c5a46bbe902c4daf79f06859485b448fc7de64/CoreProtect%20Guide.md)
-  
 
+- [Гайд по системе скинов](https://github.com/Kr1sper59/CME_World_wiki/blob/9adef81b53570b554bc486ac1350ba7bb072bf71/Skin%20Guide.md)
