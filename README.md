@@ -1,4 +1,4 @@
-# CEM wiki
+# CME wiki
 
 ## Добро пожаловать в CEM wiki.
 
