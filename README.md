@@ -1,6 +1,6 @@
 # CME wiki
 
-## Добро пожаловать в CEM wiki.
+## Добро пожаловать в CME wiki.
 
 Если вы хотите узнать больше о CEM или скачать модпак, пожалйста, посетите [Релизы проекта](https://github.com/Kr1sper59/CME_World_wiki/releases/tag/Modpack).
 
