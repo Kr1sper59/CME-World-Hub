@@ -1,4 +1,5 @@
 # CME wiki
+![Banner](https://github.com/Kr1sper59/CME_World_wiki/blob/2f4ec8685d510aa5a185845711d674e121ae90d6/Images/Banner.gif)
 
 ## Добро пожаловать в CME wiki.
 
