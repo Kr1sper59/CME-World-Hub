@@ -25,3 +25,6 @@
 - [Гайд по системе скинов](https://github.com/Kr1sper59/CME_World_wiki/blob/9679d2d165fad47ffb9dd82387add6295c4c876c/Guides/Skin%20Guide.md)
 
 - [Гайд по кастомным крафтам](https://github.com/Kr1sper59/CME_World_wiki/blob/9679d2d165fad47ffb9dd82387add6295c4c876c/Guides/Custom%20craft%20Guide.md)
+
+- [Гайд по оптимизации жителей](https://github.com/Kr1sper59/CME_World_wiki/blob/5b0f392e7e299af3b5b8374171ea4761a9a5f9b6/Guides/Vilager%20Guide.md)
+  
