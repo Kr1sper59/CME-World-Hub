@@ -1,7 +1,7 @@
 ---
 icon: ballot
-cover: .gitbook/assets/static (Пользовательское) (1).png
-coverY: 0
+cover: .gitbook/assets/standard.gif
+coverY: -127.07621247113163
 layout:
   cover:
     visible: true
