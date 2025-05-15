@@ -14,19 +14,19 @@
 
 # Содержание:
 
-- [Описание сервера](https://github.com/Kr1sper59/CME_World_wiki/blob/2e10abaa16da4c459e78aecb53163858abf7aa21/Description.md)
+- [Описание сервера](https://github.com/Kr1sper59/CME_wiki/blob/3d5e9536055c9539f0153799ebb93d7ce34542dc/Description.md)
 
-- [Гайд по моду Plasmo Voise](https://github.com/Kr1sper59/CME_World_wiki/blob/9679d2d165fad47ffb9dd82387add6295c4c876c/Guides/PlasmoVoise%20Guide.md)
+- [Гайд по моду Plasmo Voise](https://github.com/Kr1sper59/CME_wiki/blob/3d5e9536055c9539f0153799ebb93d7ce34542dc/Guides/PlasmoVoise%20Guide.md)
 
-- [Гайд по моду EmoteCraft](https://github.com/Kr1sper59/CME_World_wiki/blob/9679d2d165fad47ffb9dd82387add6295c4c876c/Guides/EmoteCraft%20Guide.md)
+- [Гайд по моду EmoteCraft](https://github.com/Kr1sper59/CME_wiki/blob/3d5e9536055c9539f0153799ebb93d7ce34542dc/Guides/emotecraft-guide.md)
 
-- [Гайд по Dynmap](https://github.com/Kr1sper59/CME_World_wiki/blob/9679d2d165fad47ffb9dd82387add6295c4c876c/Guides/Dynmap%20Guide.md)
+- [Гайд по Dynmap](https://github.com/Kr1sper59/CME_wiki/blob/3d5e9536055c9539f0153799ebb93d7ce34542dc/Guides/dynmap-guide.md)
 
-- [Гайд по CoreProtect](https://github.com/Kr1sper59/CME_World_wiki/blob/9679d2d165fad47ffb9dd82387add6295c4c876c/Guides/CoreProtect%20Guide.md)
+- [Гайд по CoreProtect](https://github.com/Kr1sper59/CME_wiki/blob/3d5e9536055c9539f0153799ebb93d7ce34542dc/Guides/coreprotect-guide.md)
 
-- [Гайд по системе скинов](https://github.com/Kr1sper59/CME_World_wiki/blob/9679d2d165fad47ffb9dd82387add6295c4c876c/Guides/Skin%20Guide.md)
+- [Гайд по системе скинов](https://github.com/Kr1sper59/CME_wiki/blob/3d5e9536055c9539f0153799ebb93d7ce34542dc/Guides/skin-guide.md)
 
-- [Гайд по кастомным крафтам](https://github.com/Kr1sper59/CME_World_wiki/blob/9679d2d165fad47ffb9dd82387add6295c4c876c/Guides/Custom%20craft%20Guide.md)
+- [Гайд по кастомным крафтам](https://github.com/Kr1sper59/CME_wiki/blob/3d5e9536055c9539f0153799ebb93d7ce34542dc/Guides/Custom%20craft%20Guide.md)
 
-- [Гайд по оптимизации жителей](https://github.com/Kr1sper59/CME_World_wiki/blob/5b0f392e7e299af3b5b8374171ea4761a9a5f9b6/Guides/Vilager%20Guide.md)
+- [Гайд по оптимизации жителей](https://github.com/Kr1sper59/CME_wiki/blob/3d5e9536055c9539f0153799ebb93d7ce34542dc/Guides/vilager-guide.md)
   
