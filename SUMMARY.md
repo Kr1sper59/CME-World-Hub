@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Главная](README.md)
+* [CME wiki](README.md)
 * [Plasmo Voise](plasmovoise-guide.md)
 * [Core Protect](coreprotect-guide.md)
 * [EmoteCraft](emotecraft-guide.md)
