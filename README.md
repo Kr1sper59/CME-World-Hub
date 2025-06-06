@@ -20,7 +20,7 @@
 
 - [Гайд по моду EmoteCraft](https://github.com/Kr1sper59/CME_wiki/blob/3d5e9536055c9539f0153799ebb93d7ce34542dc/Guides/emotecraft-guide.md)
 
-- [Гайд по Dynmap](https://github.com/Kr1sper59/CME_wiki/blob/3d5e9536055c9539f0153799ebb93d7ce34542dc/Guides/dynmap-guide.md)
+- [Гайд по Bluemap](https://github.com/Kr1sper59/CME/blob/8741e3331f940dad7fa052299edc5259afa7ddd7/Guides/Bluemap-guide.md)
 
 - [Гайд по CoreProtect](https://github.com/Kr1sper59/CME_wiki/blob/3d5e9536055c9539f0153799ebb93d7ce34542dc/Guides/coreprotect-guide.md)
 
