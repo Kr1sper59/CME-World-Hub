@@ -1,8 +1,5 @@
 ![Banner](https://github.com/Kr1sper59/CME_World_wiki/blob/main/Images/Main.gif)
 
-[![CME Wiki](https://github.com/Kr1sper59/CME-Hub/blob/main/Images/Wiki.png)](https://kr1sper.gitbook.io/cme-wiki)
-[![Join us on Discord](https://github.com/Kr1sper59/CME-Hub/blob/main/Images/discord.png)](https://discord.gg/tPCcGe6WQ9)
-
 ## Добро пожаловать в CME World!
 
 Если вы хотите скачать модпак, пожалйста, посетите [Релизы проекта](https://github.com/Kr1sper59/CME-Hub/releases/tag/Modpack).
@@ -34,3 +31,9 @@
 - [Гайд по оптимизации жителей](https://github.com/Kr1sper59/CME-Hub/blob/main/Guides/emotecraft-guide.md)
 
 - [Гайд по системе скинов](https://github.com/Kr1sper59/CME_wiki/blob/main/Guides/skin-guide.md)
+
+# Ссылки
+
+[![CME Wiki](https://github.com/Kr1sper59/CME-Hub/blob/main/Images/Wiki.png)](https://kr1sper.gitbook.io/cme-wiki)
+
+[![Join us on Discord](https://github.com/Kr1sper59/CME-Hub/blob/main/Images/discord.png)](https://discord.gg/tPCcGe6WQ9)
