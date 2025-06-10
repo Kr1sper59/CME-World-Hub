@@ -1,6 +1,6 @@
 ![Banner](https://github.com/Kr1sper59/CME_World_wiki/blob/main/Images/Main.gif)
 
-## Добро пожаловать в CME World!
+## Добро пожаловать в CME Hub!
 
 Если вы хотите скачать модпак, пожалйста, посетите [Релизы проекта](https://github.com/Kr1sper59/CME-Hub/releases/tag/Modpack).
 
