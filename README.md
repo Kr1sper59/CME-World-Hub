@@ -1,20 +1,22 @@
-# CME wiki
+# CME World
 
 ![Banner](https://github.com/Kr1sper59/CME_World_wiki/blob/2f4ec8685d510aa5a185845711d674e121ae90d6/Images/Banner.gif)
 
-## Добро пожаловать в CME wiki.
+## Добро пожаловать в CME World.
 
 Если вы хотите скачать модпак, пожалйста, посетите [Релизы проекта](https://github.com/Kr1sper59/CME_World_wiki/releases/tag/Modpack).
 
 В противном случае вы (вероятно) попали по адресу! Список доступных страниц находится снизу.
 
-Вики подлежит редактированию со стороны комьюнити, так что жду ваши идеи [тут](https://ptb.discord.com/channels/1366778927728693389/1367805808426881065) с тегом GitHub!
+Эта страница подлежит редактированию со стороны комьюнити, так что жду ваши идеи [тут](https://ptb.discord.com/channels/1366778927728693389/1367805808426881065) с тегом GitHub!
 
 Надеюсь, вы найдете нужную вам информацию, наслаждайтесь! ❤️
 
 # Содержание:
 
 - [Описание сервера](https://github.com/Kr1sper59/CME_wiki/blob/3d5e9536055c9539f0153799ebb93d7ce34542dc/Description.md)
+
+- [To Do](https://github.com/Kr1sper59/CME/blob/3f06b00a1f5769367a6b0f4797d05685cd0f3cc3/To%20Do.md)
 
 - [Гайд по моду Plasmo Voise](https://github.com/Kr1sper59/CME_wiki/blob/3d5e9536055c9539f0153799ebb93d7ce34542dc/Guides/PlasmoVoise%20Guide.md)
 
