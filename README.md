@@ -1,7 +1,7 @@
 ![Banner](https://github.com/Kr1sper59/CME_World_wiki/blob/main/Images/Main.gif)
 
-[![CME Wiki](https://github.com/Kr1sper59/CME-Hub/blob/main/Images/Wiki.gif)](https://kr1sper.gitbook.io/cme-wiki)
-[![Join us on Discord](https://github.com/Kr1sper59/CME-Hub/blob/main/Images/Discord-Logo-White.png)](https://discord.gg/b4DZ4jy)
+[![CME Wiki](https://github.com/Kr1sper59/CME-Hub/blob/main/Images/Wiki.png)](https://kr1sper.gitbook.io/cme-wiki)
+[![Join us on Discord](https://github.com/Kr1sper59/CME-Hub/blob/main/Images/Discord-Logo.png)](https://discord.gg/b4DZ4jy)
 
 ## Добро пожаловать в CME World!
 
