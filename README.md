@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=C400FF&center=true&vCenter=true&width=435&lines=CME+Hub;Guides;World+archive;Modpack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=700&color=C400FF&center=true&vCenter=true&width=1000&lines=CME+Hub;Guides;World+archive;Modpack)](https://git.io/typing-svg)
 
 ## Добро пожаловать в CME Hub!
 
