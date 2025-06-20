@@ -1,4 +1,4 @@
-![Banner](https://github.com/Kr1sper59/CME_World_wiki/blob/main/Images/Main.gif)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=C400FF&center=true&vCenter=true&width=435&lines=CME+Hub;Guides;World+archive;Modpack)](https://git.io/typing-svg)
 
 ## Добро пожаловать в CME Hub!
 
