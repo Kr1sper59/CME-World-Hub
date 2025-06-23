@@ -36,4 +36,4 @@
 
 [![CME Wiki](https://github.com/Kr1sper59/CME-Hub/blob/main/Images/Wiki.png)](https://kr1sper.gitbook.io/cme-wiki)
 
-[![Join us on Discord](https://github.com/Kr1sper59/CME-Hub/blob/main/Images/discord.png)](https://dsc.gg/cme-world)
+[![DISCORD](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.gg/cme-world)
