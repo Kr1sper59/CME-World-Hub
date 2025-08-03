@@ -1,6 +1,10 @@
 {
-  "pack": {
-    "pack_format": 36,
+    "pack": {
+        "pack_format": 46,
+        "supported_formats": {
+            "min_inclusive": 46,
+            "max_inclusive": 55
+        },
     "description": "Ресурспак сервера CME"
   }
 }
