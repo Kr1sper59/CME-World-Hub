@@ -10,7 +10,7 @@ CME Hub - это путеводитель по серверу, из которо
 
 - [World arcive](https://github.com/Kr1sper59/CME-Hub/blob/main/World-archve.md)
 
-- [CME-World-RP](https://github.com/Kr1sper59/CME-Hub/blob/main/CME-World-Rp.md)
+- [CME-World-RP](https://github.com/Kr1sper59/CME-Hub/blob/main/CME-World-Rp)
 
 - [Гайд по Bluemap](https://github.com/Kr1sper59/CME-Hub/blob/main/Guides/Bluemap-guide.md)
 
