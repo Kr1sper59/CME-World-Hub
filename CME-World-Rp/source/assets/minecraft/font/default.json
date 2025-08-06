@@ -3,8 +3,8 @@
         {
             "type": "bitmap",
             "file": "minecraft:font/logo.png",
-            "ascent": 9,
-            "height": 30,
+            "ascent": 7,
+            "height": 18,
             "chars": [
                 "\u0820"
             ]
