@@ -28,6 +28,6 @@ CME Hub - это путеводитель по серверу, из которо
 
 # Ссылки
 
-[![CME Wiki](https://github.com/Kr1sper59/CME-Hub/blob/main/Images/Wiki.png)](https://kr1sper.gitbook.io/cme-wiki)
+[![GitBook](https://img.shields.io/badge/GitBook-%23000000.svg?style=for-the-badge&logo=gitbook&logoColor=white)](https://kr1sper.gitbook.io/cme-wiki)
 
 [![DISCORD](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.gg/cme-world)
