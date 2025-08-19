@@ -33,3 +33,5 @@ CME Hub - это путеводитель по серверу, из которо
 [![GitBook](https://img.shields.io/badge/GitBook-%23000000.svg?style=for-the-badge&logo=gitbook&logoColor=white)](https://kr1sper.gitbook.io/cme-wiki)
 
 [![DISCORD](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.gg/cme-world)
+
+[![Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/asset s/cozy/available/modrinth_vector.svg)](https://modrinth.com/modpack/cme-world)
