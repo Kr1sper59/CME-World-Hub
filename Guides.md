@@ -1,0 +1,7 @@
+- Simple Voice Chat
+- Emotectaft
+- Core Protect
+- Bluemap
+- Система скинов
+- Кастомные крафты
+- Оптимизация жителей
