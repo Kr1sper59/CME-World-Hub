@@ -7,26 +7,11 @@ CME Hub - это путеводитель по серверу, из которо
 # Содержание
 
 - [To Do](https://github.com/Kr1sper59/CME/blob/main/To%20Do.md)
-
 - [World arcive](https://github.com/Kr1sper59/CME-Hub/blob/main/World-archve.md)
-
 - [CME World Rp](https://github.com/Kr1sper59/CME-Hub/blob/main/CME-World-Rp)
-
 - [CME World modpack](https://github.com/Kr1sper59/CME-Hub/releases/tag/Modpack)
+- [Гайды](https://github.com/Kr1sper59/CME-Hub/blob/1a9a5706e74ef76f52b23aaacdd1bb53602633eb/Guides.md)
 
-- [Гайд по Bluemap](https://github.com/Kr1sper59/CME-Hub/blob/main/Guides/Bluemap-guide.md)
-
-- [Гайд по кастомным крафтам](https://github.com/Kr1sper59/CME-Hub/blob/main/Guides/Custom-craft-Guide.md)
-
-- [Гайд по Plasmo Voise](https://github.com/Kr1sper59/CME-Hub/blob/main/Guides/PlasmoVoise-Guide.md)
-
-- [Гайд по CoreProtect](https://github.com/Kr1sper59/CME-Hub/blob/main/Guides/coreprotect-guide.md)
-
-- [Гайд по EmoteCraft](https://github.com/Kr1sper59/CME-Hub/blob/main/Guides/emotecraft-guide.md)
-
-- [Гайд по оптимизации жителей](https://github.com/Kr1sper59/CME-Hub/blob/main/Guides/emotecraft-guide.md)
-
-- [Гайд по системе скинов](https://github.com/Kr1sper59/CME_wiki/blob/main/Guides/skin-guide.md)
 
 # Ссылки
 
