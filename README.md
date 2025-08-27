@@ -7,8 +7,8 @@ CME Hub - это путеводитель по серверу, из которо
 # Содержание
 
 - [To Do](https://github.com/Kr1sper59/CME/blob/main/To%20Do.md)
-- [World arcive](https://github.com/Kr1sper59/CME-Hub/blob/main/World-archve.md)
-- [CME World Rp](https://github.com/Kr1sper59/CME-Hub/blob/main/CME-World-Rp)
+- [World arcive](https://github.com/Kr1sper59/CME-Hub/blob/main/World%20archve.md)
+- [CME World Rp](https://github.com/Kr1sper59/CME-Hub/blob/main/CME%20World%20RP)
 - [CME World modpack](https://github.com/Kr1sper59/CME-Hub/releases/tag/Modpack)
 - [Гайды](https://github.com/Kr1sper59/CME-Hub/blob/main/Guides.md)
 
