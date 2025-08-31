@@ -1,0 +1,9 @@
+site_name: CME World Wiki
+theme:
+  name: material
+
+nav:
+  - Главная: index.md
+  - Руководство:
+      - Установка: install.md
+      - Использование: usage.md
